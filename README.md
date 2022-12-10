@@ -8,7 +8,7 @@ All the courses (WIP included) are available from the Releases section.
 
 ## Courses
 
-### Trafalgar Golf & Country Club
+### Trafalgar Golf & Country Club, Milton, Ontario
 
 Trafalgar was shut down in 2022 to make way for warehouses, super fun!
 
@@ -16,7 +16,7 @@ Trafalgar was shut down in 2022 to make way for warehouses, super fun!
 
 It's pretty rough at this point, but I did go throug the Greenkeeper process, so it should be playable.
 
-### Mount Nemo Golf Club
+### Mount Nemo Golf Club, Burlington, Ontario
 
 > Formally Indian Wells
 
