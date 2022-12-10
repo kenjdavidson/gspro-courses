@@ -32,13 +32,23 @@ Found a simpler process (at least in Canada) for getting the lidar data without 
 4. Open the WCSServer folder
 5. Right click the `DSM`, `DTM` or layer you wish to add and select `Add Layer to Project`
 
-### Exporting 
+### Exporting Heightmaps
+
+Instead of Extracting from the Lidar data, the Lidar data can be exported as a first step:
+
+1. Right click the layer you wish to export
+2. Click `Save As`
+3. IMPORTANT don't click `raster image` leave the first export as `raw data`.  If you don't do this, it will convert the `float32` lidar data to `byte` which messes up the definition.
+4. Save with 16000/16000
+5. Follow the remaining steps
+
+### Exporting Overlays 
 
 Once you get your inner and outer setup (using the regular steps) to export:
 
 1. Right click the layer you wish to export
 2. Click `Save As`
-3. Follow the normal steps to use the _inner_ and _outer_ as masks
+3. Follow the normal steps to use the _inner_ and _outer_ as masks fore Google or Bing
 4. Save with 16000/16000
 5. Follow the remaining steps
 
