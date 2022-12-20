@@ -2,10 +2,6 @@
 
 Been playing around with the OPCD Golf Course Design process and some local courses.
 
-## Releases
-
-All the courses (WIP included) are available from the Releases section.
-
 ## Courses
 
 ### Trafalgar Golf & Country Club, Milton, Ontario
@@ -19,6 +15,10 @@ Trafalgar was shut down in 2022 to make way for warehouses, super fun!
 > Formally Indian Wells
 
 [Details](/mount-nemo.md)
+
+## Releases
+
+Courses are published to the [releases download page](https://github.com/kenjdavidson/opcd-golf-courses/releases).
 
 ## Lidar/Heightmap(s)
 
