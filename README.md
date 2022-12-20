@@ -12,15 +12,13 @@ All the courses (WIP included) are available from the Releases section.
 
 Trafalgar was shut down in 2022 to make way for warehouses, super fun!
 
-> I stopped working on this since someone else @judojeff was also working on the same course.  I got it as far as the Unity stage and playing around with some basic vegetation.
-
-It's pretty rough at this point, but I did go throug the Greenkeeper process, so it should be playable.
+[Details](/trafalgar.md)
 
 ### Mount Nemo Golf Club, Burlington, Ontario
 
 > Formally Indian Wells
 
-...
+[Details](/mount-nemo.md)
 
 ## Lidar/Heightmap(s)
 
