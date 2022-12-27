@@ -12,4 +12,14 @@ Mount Nemo Golf Club is also as challenging as it is scenic. It is a par 71 cham
 
 ### V1 
 
-Unreleased
+- Course layout completed
+- Basic vegetation added
+- Greenskeeper OOB and Hazards
+
+#### TODO
+
+- [ ] Performance - Tree and Bush LOD seems to be the biggest issue
+- [ ] Remaining manually planted trees
+- [ ] Vegetation - especially dry/wet long grass
+- [ ] Vegetation - diversify bushes
+- [ ] Sat Shader
