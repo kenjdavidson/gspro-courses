@@ -4,21 +4,10 @@ Been playing around with the OPCD Golf Course Design process and some local cour
 
 ## Courses
 
-### Trafalgar Golf & Country Club, Milton, Ontario
-
-Trafalgar was shut down in 2022 to make way for warehouses, super fun!
-
-[Details](/trafalgar.md)
-
-### Mount Nemo Golf Club, Burlington, Ontario
-
-> Formally Indian Wells
-
-[Details](/mount-nemo.md)
-
-## Releases
-
-Courses are published to the [releases download page](https://github.com/kenjdavidson/opcd-golf-courses/releases).
+| Course | Location | Details | Download | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| Trafalgar Golf & Country Coub | Milton, Ontario | [Details](/trafalgar.md) | [Download](https://1drv.ms/u/s!AqN33biz5OLCifBor9HbtDQybwbRBw?e=ygFUPl) | Paused |
+| Mount Nemo Golf Club | Burlington, Ontario | [Details](/mount-nemo.md) | [Download]() | Relased v1 |
 
 ## Lidar/Heightmap(s)
 
