@@ -6,8 +6,8 @@ Been playing around with the OPCD Golf Course Design process and some local cour
 
 | Course | Location | Details | Download | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| Trafalgar Golf & Country Coub | Milton, Ontario | [Details](/trafalgar.md) | [Download](https://1drv.ms/u/s!AqN33biz5OLCifBor9HbtDQybwbRBw?e=ygFUPl) | Paused |
-| Mount Nemo Golf Club | Burlington, Ontario | [Details](/mount-nemo.md) | [Download]() | Relased v1 |
+| Trafalgar Golf & Country Coub | Milton, Ontario | [Readme](/trafalgar.md) |  | Paused |
+| Mount Nemo Golf Club | Burlington, Ontario | [Readme](/mount-nemo.md) | [One Drive](https://1drv.ms/u/s!AqN33biz5OLCifBor9HbtDQybwbRBw?e=ygFUPl) | Relased v1 |
 
 ## Lidar/Heightmap(s)
 
