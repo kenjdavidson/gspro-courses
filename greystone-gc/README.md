@@ -10,15 +10,16 @@ Opened in 1991 and one of ClubLink's original four courses, the Prestige-level c
 
 Greystone's stunning Tudor-style clubhouse and banquet facility provide a memorable venue for meetings and weddings, or to simply to relax after your round. Minutes from Highway 401 on the western edge of Greater Toronto, Greystone offers an escape on a course known equally for its scenery and championship-calibre golf holes.
 
-# Release V1
+## Release
 
 | Version | Size | Download Hash |
 | :-- | :-- | :-- |
-| [V0](https://1drv.ms/u/s!AqN33biz5OLCiq8xvp6yU9-vpwMPeA?e=ivrrb5) | 350 MB | |  
+| [2023-01-14](https://1drv.ms/u/s!AqN33biz5OLCir4yFFS7POu8FvD_Jg?e=AwO4y4) | 350 MB | |  
 
-## Details
+## Change Log
 
-- [x] Lidar and Layout
-- [ ] Vegetation (needs to be completed)
-- [ ] 3DG (needs to be completed)
-- [ ] Sat Shading (although I'm terribad at it)
+### 2023-01-14 Pre-release
+
+- Course mapped
+- Basic vegetation planted
+- Tees and layout updated

@@ -18,14 +18,14 @@ Mount Nemo Golf Club is also as challenging as it is scenic. It is a par 71 cham
 
 ## Change Log
 
-2023-01-14 v1.1
+### 2023-01-14 v1.1
 
 - Updated pin locations to match higher stimp
 - Update OOB and Hazards
 - Updated AP1 locations on certain holes
 - Fixed incorrect distance markers
 
-2023-01-13 v1.0 - Initial Release
+### 2023-01-13 v1.0 - Initial Release
 
 - Course definition
 - Basic vegetation
