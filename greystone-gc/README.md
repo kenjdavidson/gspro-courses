@@ -14,4 +14,11 @@ Greystone's stunning Tudor-style clubhouse and banquet facility provide a memora
 
 | Version | Size | Download Hash |
 | :-- | :-- | :-- |
-| [V0]() | 230 MB | |  
+| [V0](https://1drv.ms/u/s!AqN33biz5OLCiq8xvp6yU9-vpwMPeA?e=ivrrb5) | 350 MB | |  
+
+## Details
+
+- [x] Lidar and Layout
+- [ ] Vegetation (needs to be completed)
+- [ ] 3DG (needs to be completed)
+- [ ] Sat Shading (although I'm terribad at it)
