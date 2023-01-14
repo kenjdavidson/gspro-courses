@@ -6,7 +6,7 @@ Been playing around with the OPCD Golf Course Design process and some local cour
 
 | Course | Location | Details | Download | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| Greystone Golf Club | Milton, Ontario | [Readme](/greystone-gc/README.md) | [One Drive](https://1drv.ms/u/s!AqN33biz5OLCir4yFFS7POu8FvD_Jg?e=AwO4y4) | Lidar/Splining completed |
+| Greystone Golf Club | Milton, Ontario | [Readme](/greystone-gc/README.md) | [One Drive](https://1drv.ms/u/s!AqN33biz5OLCisIFXllueIFr9Gxu4Q?e=qJVuFv) | Lidar/Splining completed |
 | Mount Nemo Golf Club | Burlington, Ontario | [Readme](/mount-nemo-gc/README.md) | [One Drive](https://1drv.ms/u/s!AqN33biz5OLCisBrArDMt9J2jPZa9w?e=fUu49B) | Relased v1 |
 | Trafalgar Golf & Country Coub | Milton, Ontario | [Readme](/trafalgar.md) |  | Paused |
 
