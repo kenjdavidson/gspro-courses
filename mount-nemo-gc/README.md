@@ -10,16 +10,23 @@ Mount Nemo Golf Club is also as challenging as it is scenic. It is a par 71 cham
 
 ## Release
 
-| Version | Size | Download Hash |
+| Release Date | Size | Download Hash |
 | :-- | :-- | :-- |
-| [V1](https://1drv.ms/u/s!AqN33biz5OLCir0zLn5QV_MS5zcJyA?e=S25saA) | 630 MB | |  
+| [2023-01-14](https://1drv.ms/u/s!AqN33biz5OLCisBrArDMt9J2jPZa9w?e=fUu49B) | 630 MB | |  
 
-## Details 
+> This file is larger than expected due to the texture mapping of vegetation.  I need to replaces the texture maps with biome areas to cut the size down.
 
-- [x] Course Definition
-- [x] Vegetation
-- [x] 3D Grass
-- [ ] Satellite shading
-- [x] Clubhouse (basic)
-- [x] Distance Markers
-- [ ] Redo Vegetation with areas instead of Textures (lower build size)
+## Change Log
+
+2023-01-14 v1.1
+
+- Updated pin locations to match higher stimp
+- Update OOB and Hazards
+- Updated AP1 locations on certain holes
+- Fixed incorrect distance markers
+
+2023-01-13 v1.0 - Initial Release
+
+- Course definition
+- Basic vegetation
+- Club house
