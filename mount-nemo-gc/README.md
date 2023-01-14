@@ -8,14 +8,18 @@ Founded in 1973, Mount Nemo Golf Club offers one of the most enjoyable golf expe
 
 Mount Nemo Golf Club is also as challenging as it is scenic. It is a par 71 championship length course.  The front nine challenges the golfer with ponds coming into play on six holes, and the back nine presents narrow fairways and deep mature forests.
 
-## Release v1
+## Release
 
-[Download](https://1drv.ms/u/s!AqN33biz5OLCifBor9HbtDQybwbRBw?e=hY5prS)
+| Version | Size | Download Hash |
+| :-- | :-- | :-- |
+| [V1](https://1drv.ms/u/s!AqN33biz5OLCir0zLn5QV_MS5zcJyA?e=S25saA) | 630 MB | |  
 
-Details: 
+## Details 
 
 - [x] Course Definition
 - [x] Vegetation
 - [x] 3D Grass
 - [ ] Satellite shading
 - [x] Clubhouse (basic)
+- [x] Distance Markers
+- [ ] Redo Vegetation with areas instead of Textures (lower build size)
