@@ -1,15 +1,16 @@
 # OPCD Golf Courses
 
-Been playing around with the OPCD Golf Course Design process and some local courses.
-
 ## Courses
 
-| Course | Location | Details | Download | Status |
+| Course | Location | Details | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| Greystone Golf Club | Milton, Ontario | [Readme](/greystone-gc/README.md) | [One Drive](https://1drv.ms/u/s!AqN33biz5OLCisIFXllueIFr9Gxu4Q?e=qJVuFv) | Lidar/Splining completed |
-| Mount Nemo Golf Club | Burlington, Ontario | [Readme](/mount-nemo-gc/README.md) | [One Drive](https://1drv.ms/u/s!AqN33biz5OLCisBrArDMt9J2jPZa9w?e=fUu49B) | Relased v1 |
-| Trafalgar Golf & Country Coub | Milton, Ontario | [Readme](/trafalgar.md) |  | Paused |
+| Greystone Golf Club | Milton, Ontario | [Readme](/greystone-gc/README.md) | Beta |
+| Mount Nemo Golf Club | Burlington, Ontario | [Readme](/mount-nemo-gc/README.md) | Beta |
+| Trafalgar Golf & Country Coub | Milton, Ontario | [Readme](/trafalgar.md) | Paused |
 
+### Course List
+
+[courses.json](/courses.json)
 
 ## Lidar/Heightmap(s)
 
@@ -20,6 +21,12 @@ Found a simpler process (at least in Canada) for getting the lidar data without 
 3. Paste the url for the WCSServer into the connection and give it a name
 4. Open the WCSServer folder
 5. Right click the `DSM`, `DTM` or layer you wish to add and select `Add Layer to Project`
+
+### Project CRS
+
+Ensure that you set the project CRS appropriately.  The WCS will have a worldwide value, using this will mess up the values, so make sure you go into project settings and select the appropriate one.  You can get this from one of the the DTM tiles, or you can look through the list of available CRS until you find the one that looks good.
+
+> You may see some warnings about not being able to convert 100% and using a fallback conversion, this seems to not really be an issue in the few courses I've exported.
 
 ### Exporting Heightmaps
 
