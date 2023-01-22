@@ -13,6 +13,8 @@ gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resi
 ---
 # Greystone Golf Club
 
+![Splash Image](./splash.png)
+
 Sculpted into the edge of the Niagara Escarpment, Greystone is one of the most scenic and respected parkland courses in the ClubLink family.
 
 One of the earliest creations - and among the most popular - of architect Doug Carrick, Greystone winds harmoniously through tree-lined hills and valleys. The fairways are generously wide, but tighten at landing areas and climax with green complexes protected by flash-faced bunkers in the style of Stanley Thompson.

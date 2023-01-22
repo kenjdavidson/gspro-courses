@@ -16,6 +16,8 @@ gspro_last_updated:
 
 # Mount Nemo Golf Club
 
+![Splash Image](./splash.png)
+
 Mount Nemo Golf Club (formerly Indian Wells Golf Club) is one of the GTA’s most scenic and challenging golf courses. Nestled beneath the towering cliffs of Mt. Nemo, our club offers a unique golfing experience. Our spectacular setting provides golfers with a challenging 18 hole championship layout as well as many breathtaking views of the surrounding scenery. At Mount Nemo Golf Club, rolling terrain and tree-lined fairways combined with strategically placed bunkers and a dangerous array of water hazards will test the shot-making skills of every Burlington golf enthusiast.
 
 Founded in 1973, Mount Nemo Golf Club offers one of the most enjoyable golf experiences in the Greater Toronto Area and one of the best Burlington golf courses. The Toronto Sun has even presented the course the Silver Award in the category of “Best Value Golf Course in the GTA”, in both 2011 and 2012 and our clientele continue to comment that value still holds true to this day
