@@ -1,0 +1,23 @@
+[{
+    "CourseKey": "",
+    "Name": "Greystone Golf Club"",
+    "DownloadURL": "",
+    "RemoteVersion": "",
+    "ID": "0",
+    "Status": "0",
+    "CourseFolder": "",
+    "CourseLocation": "Milton, Ontario",
+    "CourseDesigner": "kenjdavidson",
+    "LastUpdated": ""
+},{
+    "CourseKey": "MountNemoGCON",
+    "Name": "Mount Nemo Golf Club"",
+    "DownloadURL": "",
+    "RemoteVersion": "1",
+    "ID": "0",
+    "Status": "0",
+    "CourseFolder": "mount_nemo_gc_gsp",
+    "CourseLocation": "Burlington, Ontario",
+    "CourseDesigner": "kenjdavidson",
+    "LastUpdated": ""
+}]
