@@ -9,7 +9,7 @@ gspro_courseKey: GreystoneGCON
 gspro_courseFolder: greystone_gc_gsp
 gspro_status:  0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=C2E2E4B3B8DD77A3%21177980&authkey=AHnl0bivOOOy5pE
+gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21177980&authkey=AHnl0bivOOOy5pE
 ---
 # Greystone Golf Club
 
