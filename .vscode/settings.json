@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.njk": "html"
+    },
+    "prettier.tabWidth": 2,
+    "prettier.enable": true,
+}

@@ -1,6 +1,17 @@
+---
+layout: layout.njk
+title: Greystone Golf Club
+description: 
+location: Milton, Ontario
+tags: courses
+image: splash.png
+gspro_courseKey: GreystoneGCON
+gspro_courseFolder: greystone_gc_gsp
+gspro_status:  0
+gspro_id: 0
+gspro_download_url:
+---
 # Greystone Golf Club
-
-[Greystone Golf Club](https://greystone.clublink.ca/)
 
 Sculpted into the edge of the Niagara Escarpment, Greystone is one of the most scenic and respected parkland courses in the ClubLink family.
 
@@ -11,3 +22,7 @@ Greystone's greens along the rugged escarpment are renowned for their speed and 
 Opened in 1991 and one of ClubLink's original four courses, the Prestige-level club is ranked 38th in Canada by SCOREGolf, and features full practice facilities, including a range, putting green, chipping area and practice bunker. 
 
 Greystone's stunning Tudor-style clubhouse and banquet facility provide a memorable venue for meetings and weddings, or to simply to relax after your round. Minutes from Highway 401 on the western edge of Greater Toronto, Greystone offers an escape on a course known equally for its scenery and championship-calibre golf holes.
+
+## Details 
+
+[Greystone Golf Club](https://greystone.clublink.ca/)

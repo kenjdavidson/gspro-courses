@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+}
+
+@layer base {
+  th {
+    @apply py-1 px-2;
+  }
+
+  td {
+    @apply py-1 px-2;
+  }
+}

@@ -1,0 +1,27 @@
+name: Build and Release
+on:
+  workflow_dispatch:    
+  push:
+    branches: 
+      - main
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest    
+
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v2
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.14.2
+      - name: Install dependencies
+        run: npm install
+      - name: Build project
+        run: npm run build
+      - name: Deploy to Github
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: _site
+          publish_branch: gh_pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
