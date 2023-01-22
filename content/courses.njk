@@ -4,7 +4,7 @@ permalink: /courses.json
 [{% for course in collections.courses %}{
     "CourseKey": "{{ course.data.gspro_course_key }}",
     "Name": "{{ course.data.title }}"",
-    "DownloadURL": "{{ course.data.gspro_download_url }}",
+    "DownloadURL": "{{ course.data.gspro_download_url | safe  }}",
     "RemoteVersion": "{{ course.data.gspro_version }}",
     "ID": "0",
     "Status": "0",
