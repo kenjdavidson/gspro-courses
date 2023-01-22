@@ -1,14 +1,9 @@
 # OPCD Golf Courses
 
-## Courses
+Documenting my Open Golf Course Design experience.
 
-| Course | Location | Details | Status |
-| :--- | :--- | :--- | :--- |
-| Greystone Golf Club | Milton, Ontario | [Readme](/greystone-gc/README.md) | Beta |
-| Mount Nemo Golf Club | Burlington, Ontario | [Readme](/mount-nemo-gc/README.md) | Beta |
-| Trafalgar Golf & Country Coub | Milton, Ontario | [Readme](/trafalgar.md) | Paused |
+## Contribute
 
-### Course List
+Feel free to shoot me a message or open an issue if you see something that doens't look right.
 
-[courses.json](/courses.json)
-
+If you're in the same boat as me, just playing with OPCD, then feel free to clone this repo and get your own projects up and running.
