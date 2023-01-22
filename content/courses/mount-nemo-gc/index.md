@@ -10,7 +10,7 @@ gspro_course_folder: mount_nemo_gc_gsp
 gspro_version: 1.0
 gspro_status:  0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=C2E2E4B3B8DD77A3%21172139&authkey=APpkJ-qsfhn1Rjk
+gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3B8dd77a3%21172139&authkey=APpkJ-qsfhn1Rjk
 gspro_last_updated:
 ---
 
