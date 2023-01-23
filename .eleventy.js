@@ -2,6 +2,7 @@ const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const jsonFilters = require('./src/filters/json');
 const ordinalFilter = require('./src/filters/ordinal');
 const htmlMinify = require('./src/transforms/html-minify');
+const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
   // Production
@@ -21,6 +22,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("toJson", jsonFilters.toJson);
   eleventyConfig.addFilter("fromJson", jsonFilters.fromJson);
   eleventyConfig.addFilter("ordinal", ordinalFilter);
+  const md = new markdownIt({
+    html: true
+  });
+
+  eleventyConfig.addPairedShortcode("markdown", (content) => {
+    return md.render(content);
+  });
 
   return {
     passthroughFileCopy: true,
