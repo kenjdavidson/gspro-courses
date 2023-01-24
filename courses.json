@@ -1,23 +1,23 @@
 [{
-    "CourseKey": "",
+    "CourseKey": "GreystoneGCON",
     "Name": "Greystone Golf Club"",
-    "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21177980&authkey=AHnl0bivOOOy5pE",
-    "RemoteVersion": "",
+    "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21181676&authkey=ALc3m1jUS_7XHEk",
+    "RemoteVersion": "beta-1.1",
     "ID": "0",
     "Status": "0",
-    "CourseFolder": "",
+    "CourseFolder": "greystone_gc_gsp",
     "CourseLocation": "Milton, Ontario",
     "CourseDesigner": "kenjdavidson",
-    "LastUpdated": ""
+    "LastUpdated": "2023-01-23"
 },{
     "CourseKey": "MountNemoGCON",
     "Name": "Mount Nemo Golf Club"",
     "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3B8dd77a3%21172139&authkey=APpkJ-qsfhn1Rjk",
-    "RemoteVersion": "1",
+    "RemoteVersion": "beta-1.0",
     "ID": "0",
     "Status": "0",
     "CourseFolder": "mount_nemo_gc_gsp",
     "CourseLocation": "Burlington, Ontario",
     "CourseDesigner": "kenjdavidson",
-    "LastUpdated": ""
+    "LastUpdated": "2023-01-10"
 }]
