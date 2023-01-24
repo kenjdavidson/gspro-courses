@@ -5,11 +5,13 @@ description:
 location: Milton, Ontario
 tags: courses
 image: splash.png
-gspro_courseKey: GreystoneGCON
-gspro_courseFolder: greystone_gc_gsp
+gspro_course_key: GreystoneGCON
+gspro_course_folder: greystone_gc_gsp
 gspro_status:  0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21177980&authkey=AHnl0bivOOOy5pE
+gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21181676&authkey=ALc3m1jUS_7XHEk
+gspro_version: beta-1.1
+gspro_last_updated: "2023-01-23"
 ---
 # Greystone Golf Club
 
