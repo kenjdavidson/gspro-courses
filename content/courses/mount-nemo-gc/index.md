@@ -9,9 +9,9 @@ gspro_course_key: MountNemoGCON
 gspro_course_folder: mount_nemo_gc_gsp
 gspro_status:  0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3B8dd77a3%21172139&authkey=APpkJ-qsfhn1Rjk
-gspro_version: beta-1.0
-gspro_last_updated: "2023-01-10"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196816&authkey=!APB5zjElZRO7sWI
+gspro_version: beta-1.1
+gspro_last_updated: "2023-01-31"
 ---
 
 # Mount Nemo Golf Club
@@ -27,3 +27,7 @@ Mount Nemo Golf Club is also as challenging as it is scenic. It is a par 71 cham
 ## Details 
 
 [https://www.mountnemogolfclub.ca/](https://www.mountnemogolfclub.ca/)
+
+### Beta 1.1
+
+- Updated splash image to jpg

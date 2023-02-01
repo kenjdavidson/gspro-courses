@@ -9,9 +9,9 @@ gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
 gspro_status:  0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21181676&authkey=ALc3m1jUS_7XHEk
-gspro_version: beta-1.1
-gspro_last_updated: "2023-01-23"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196724&authkey=!AIKyxJ6c1Z8sNkg
+gspro_version: beta-1.2
+gspro_last_updated: "2023-01-31"
 ---
 # Greystone Golf Club
 
@@ -30,3 +30,7 @@ Greystone's stunning Tudor-style clubhouse and banquet facility provide a memora
 ## Details 
 
 [Greystone Golf Club](https://greystone.clublink.ca/)
+
+### Beta 1.2
+
+- Updated splash image to jpg
