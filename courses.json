@@ -1,4 +1,37 @@
 [{
+    "CourseKey": "GlencairnSLON",
+    "Name": "Glencairn - Scotch Block/Leithfield"",
+    "DownloadURL": "",
+    "RemoteVersion": "beta-1.0",
+    "ID": "0",
+    "Status": "0",
+    "CourseFolder": "glencairn_sl_gsp",
+    "CourseLocation": "Milton, Ontario",
+    "CourseDesigner": "kenjdavidson",
+    "LastUpdated": "2023-01-31"
+},{
+    "CourseKey": "GlencairnLSON",
+    "Name": "Glencairn - Leithfield/Speyside"",
+    "DownloadURL": "",
+    "RemoteVersion": "beta-1.0",
+    "ID": "0",
+    "Status": "0",
+    "CourseFolder": "glencairn_ls_gsp",
+    "CourseLocation": "Milton, Ontario",
+    "CourseDesigner": "kenjdavidson",
+    "LastUpdated": "2023-01-31"
+},{
+    "CourseKey": "GlencairnLSON",
+    "Name": "Glencairn - Leithfield/Speyside"",
+    "DownloadURL": "",
+    "RemoteVersion": "beta-1.0",
+    "ID": "0",
+    "Status": "0",
+    "CourseFolder": "glencairn_ls_gsp",
+    "CourseLocation": "Milton, Ontario",
+    "CourseDesigner": "kenjdavidson",
+    "LastUpdated": "2023-01-31"
+},{
     "CourseKey": "GreystoneGCON",
     "Name": "Greystone Golf Club"",
     "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196724&authkey=!AIKyxJ6c1Z8sNkg",
