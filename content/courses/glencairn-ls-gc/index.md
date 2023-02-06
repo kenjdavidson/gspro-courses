@@ -14,11 +14,9 @@ gspro_version: alpha-1.0
 gspro_last_updated: "2023-02-05"
 ---
 
-# Glencairn Golf Club
+# Glencairn - Leithfield/Speyside
 
 > Release contains just the basic ground work and course layout. It's playable, but should only be used for those assisting me in designing the course.
-
-## Leithfield/Speyside
 
 ![Splash Image](./splash.jpg)
 
