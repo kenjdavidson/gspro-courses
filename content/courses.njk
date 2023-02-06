@@ -2,11 +2,15 @@
 permalink: /courses.json
 ---
 
-[{% for course in collections.courses %}{% if course.data.gspro_version != 'wip'
-%}{ "CourseKey": "{{ course.data.gspro_course_key }}", "Name": "{{
-course.data.title }}"", "DownloadURL": "{{ course.data.gspro_download_url | safe
-}}", "RemoteVersion": "{{ course.data.gspro_version }}", "ID": "0", "Status":
-"0", "CourseFolder": "{{ course.data.gspro_course_folder}}", "CourseLocation":
-"{{ course.data.location }}", "CourseDesigner": "kenjdavidson", "LastUpdated":
-"{{ course.data.gspro_last_updated }}" }{% endif %}{% if not loop.last %},{%
-endif %}{% endfor %}]
+[{% for course in collections.courses %}{% if course.data.gspro_version != 'wip'%}{ 
+    "CourseKey": "{{ course.data.gspro_course_key }}", 
+    "Name": "{{ course.data.title }}", 
+    "DownloadURL": "{{ course.data.gspro_download_url | safe }}", 
+    "RemoteVersion": "{{ course.data.gspro_version }}", 
+    "ID": "0", 
+    "Status": "0", 
+    "CourseFolder": "{{ course.data.gspro_course_folder}}", 
+    "CourseLocation": "{{ course.data.location }}", 
+    "CourseDesigner": "kenjdavidson", 
+    "LastUpdated": "{{ course.data.gspro_last_updated }}" 
+}{% endif %}{% if not loop.last %},{% endif %}{% endfor %}]
