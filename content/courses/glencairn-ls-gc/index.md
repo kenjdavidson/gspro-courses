@@ -4,7 +4,7 @@ title: Glencairn - Leithfield/Speyside
 description:
 location: Milton, Ontario
 tags: courses
-image: splash.png
+image: splash.jpg
 gspro_course_key: GlencairnLSON
 gspro_course_folder: glencairn_ls_gsp
 gspro_status: 0
@@ -20,7 +20,7 @@ gspro_last_updated: "2023-02-05"
 
 ## Leithfield/Speyside
 
-![Splash Image](./splash.png)
+![Splash Image](./splash.jpg)
 
 It's been said that Glencairn is the closest you'll come to Scotland without crossing the Atlantic.
 
