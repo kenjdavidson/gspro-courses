@@ -12,5 +12,5 @@ permalink: /courses.json
     "CourseFolder": "{{ course.data.gspro_course_folder}}", 
     "CourseLocation": "{{ course.data.location }}", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "{{ course.data.gspro_last_updated }}" 
+    "LastUpdated": "{{ course.data.date }}" 
 }{% endif %}{% if not loop.last %},{% endif %}{% endfor %}]

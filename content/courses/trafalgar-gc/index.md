@@ -11,7 +11,7 @@ gspro_status: 0
 gspro_id: 0
 gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21208648&authkey=!AGOv1c-zIdJnEu4
 gspro_version: beta-1.1
-gspro_last_updated: "2023-02-09"
+date: "2023-02-09"
 ---
 
 # Trafalgar Golf Club

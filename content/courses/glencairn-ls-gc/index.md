@@ -11,7 +11,7 @@ gspro_status: 0
 gspro_id: 0
 gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21208305&authkey=AP32BIXhFTLWex8
 gspro_version: alpha-1.0
-gspro_last_updated: "2023-02-05"
+date: "2023-02-05"
 ---
 
 # Glencairn - Leithfield/Speyside

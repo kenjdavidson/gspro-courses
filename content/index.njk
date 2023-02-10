@@ -20,7 +20,9 @@ permalink: "/"
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white no-underline">{{ course.data.title }}</h5>
                         <h6 class="mb-2 text-xl tracking-tight text-gray-700 dark:text-white no-underline">{{ course.data.location }}</h5>
                     </a>
-                    {% if course.description %}<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ course.data.description }}</p>{% endif %}
+                    <div class="mb-3 font-normal text-gray-700 dark:text-gray-400">Version: {{ course.data.gspro_version }}</div>
+                    <div class="mb-3 font-normal text-gray-700 dark:text-gray-400">Updated: {{ course.data.gspro_last_updated }}</div>
+                    {% if course.data.info %}<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ course.data.info }}</p>{% endif %}
                 </div>
             </div>
         </li>
@@ -76,9 +78,4 @@ permalink: "/"
             <li>Enter the address <a href="https://kenjdavidson.com/gspro-courses/courses.json"><strong>https://kenjdavidson.com/gspro-courses/courses.json</strong></a> and click <strong>Add Server</strong></li>
         </ol>
     </p>
-</article>
-
-<article>
-
-    https://1drv.ms/u/s!AqN33biz5OLCgvFy2RanEYITYpLtcg?e=o1GvKA
 </article>
