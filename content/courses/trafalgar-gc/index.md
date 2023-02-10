@@ -9,9 +9,9 @@ gspro_course_key: TrafalgarGCON
 gspro_course_folder: trafalgar_gc_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196817&authkey=!AIj_03IKBvv-zmg
-gspro_version: beta-1.0
-gspro_last_updated: "2023-01-31"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21208648&authkey=!AGOv1c-zIdJnEu4
+gspro_version: beta-1.1
+gspro_last_updated: "2023-02-09"
 ---
 
 # Trafalgar Golf Club
@@ -33,6 +33,14 @@ Some links regarding the sale of Trafalgar Golf Club.
 - [Trafalgar Golf Club sold](https://www.hamiltonnews.com/news-story/9248838-trafalgar-golf-and-country-club-sold-to-real-estate-company/)
 - [Facebook](https://www.facebook.com/trafalgargc/)
 
-### Beta 1.0
+### Versions
+
+#### Beta 1.1
+
+- Club houses
+- Colliders (forgot them first go round)
+- Hole 7 green fixed to be an actual green
+
+#### Beta 1.0
 
 - Released course with basic vegetation and layout
