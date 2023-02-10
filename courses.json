@@ -1,16 +1,5 @@
 
 [{ 
-    "CourseKey": "GlencairnLSON", 
-    "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21208305&authkey=AP32BIXhFTLWex8", 
-    "RemoteVersion": "alpha-1.0", 
-    "ID": "0", 
-    "Status": "0", 
-    "CourseFolder": "glencairn_ls_gsp", 
-    "CourseLocation": "Milton, Ontario", 
-    "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-02-05" 
-},{ 
     "CourseKey": "GreystoneGCON", 
     "Name": "Greystone Golf Club", 
     "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196724&authkey=!AIKyxJ6c1Z8sNkg", 
@@ -32,6 +21,17 @@
     "CourseLocation": "Burlington, Ontario", 
     "CourseDesigner": "kenjdavidson", 
     "LastUpdated": "2023-01-31" 
+},{ 
+    "CourseKey": "GlencairnLSON", 
+    "Name": "Glencairn - Leithfield/Speyside", 
+    "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21208305&authkey=AP32BIXhFTLWex8", 
+    "RemoteVersion": "alpha-1.0", 
+    "ID": "0", 
+    "Status": "0", 
+    "CourseFolder": "glencairn_ls_gsp", 
+    "CourseLocation": "Milton, Ontario", 
+    "CourseDesigner": "kenjdavidson", 
+    "LastUpdated": "2023-02-05" 
 },{ 
     "CourseKey": "TrafalgarGCON", 
     "Name": "Trafalgar Golf Club", 
