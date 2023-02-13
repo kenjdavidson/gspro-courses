@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: course_layout.njk
 title: Trafalgar Golf Club
 description:
 location: Milton, Ontario
@@ -9,14 +9,11 @@ gspro_course_key: TrafalgarGCON
 gspro_course_folder: trafalgar_gc_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21208648&authkey=!AGOv1c-zIdJnEu4
-gspro_version: beta-1.1
-date: "2023-02-09"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220422&authkey=!AJzUxPGh9uMQGbU
+gspro_version: beta-1.3
+gspro_last_updated: "2023-01-31"
+gspro_elevation_feet: "250"
 ---
-
-# Trafalgar Golf Club
-
-![Splash Image](./splash.jpg)
 
 > Trafalgar Golf Club was closed after the 2022 season to make way for business parks and warehouse developments. Bullshit!
 
@@ -26,21 +23,21 @@ The initial investors were: Earl Black, Walter Hayward, Murray Greeniaus, Ross H
 
 Over the years, the club had played host to the qualifying rounds of the Canadian Open, and was the home course for Oakville's Sandra Post, the first Canadian to win an LPGA major.
 
-## Details
-
-Some links regarding the sale of Trafalgar Golf Club.
+### Links
 
 - [Trafalgar Golf Club sold](https://www.hamiltonnews.com/news-story/9248838-trafalgar-golf-and-country-club-sold-to-real-estate-company/)
 - [Facebook](https://www.facebook.com/trafalgargc/)
+- [Download]({{ data.gspro_download_url }})
 
 ### Versions
 
-#### Beta 1.1
+#### Beta 1.3 - 2023-02-12
+
+- Updated release folder to work with JSON Server
+
+#### Beta 1.2 - 2023-01-31
 
 - Club houses
 - Colliders (forgot them first go round)
 - Hole 7 green fixed to be an actual green
 
-#### Beta 1.0
-
-- Released course with basic vegetation and layout

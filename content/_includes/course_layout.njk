@@ -1,0 +1,21 @@
+---
+layout: layout.njk
+---
+
+<h1>{{ title }}</h1>
+
+<section class="flex flex-col-reverse lg:flex-row gap-2">
+    <div>
+        {{ content | safe }}
+    </div>
+    <div class="sticky">
+        <img src="{{ image }}" alt="{{ title }} splash image" />
+    </div>
+</section>
+
+<h2>Download</h2>
+
+Setup the <a href="{{ '/courses.json' | url}}">JSON Server</a> or <a href="{{ gspro_download_url }}">Download</a> 
+and extract to courses folder <strong>{{ gspro_course_folder }}</strong>.
+
+<blockquote>Remember to <strong>Clear Course Cache</strong></blockquote> 

@@ -1,15 +1,15 @@
 ---
 layout: course_layout.njk
-title: Glencairn - Leithfield/Speyside
+title: Glencairn - Speyside/Scotch Block
 description:
 location: Milton, Ontario
 tags: courses
 image: splash.jpg
-gspro_course_key: GlencairnLSON
-gspro_course_folder: glencairn_ls_gsp
+gspro_course_key: GlencairnSSON
+gspro_course_folder: glencairn_ss_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220423&authkey=!AGwOwLwU70zW6B0
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220424&authkey=!AHMh8xXS0pk8UJc
 gspro_version: alpha-1.1
 gspro_last_updated: "2023-02-12"
 gspro_elevation_feet: "250"

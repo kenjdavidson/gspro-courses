@@ -7,10 +7,9 @@ permalink: /courses.json
     "Name": "{{ course.data.title }}", 
     "DownloadURL": "{{ course.data.gspro_download_url | safe }}", 
     "RemoteVersion": "{{ course.data.gspro_version }}", 
-    "ID": "0", 
-    "Status": "0", 
     "CourseFolder": "{{ course.data.gspro_course_folder}}", 
     "CourseLocation": "{{ course.data.location }}", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "{{ course.data.date }}" 
+    "LastUpdated": "{{ course.data.gspro_last_updated }}",
+    "ElevationInFeet": "{{ course.data.gspro_elevation_feet }}"
 }{% endif %}{% if not loop.last %},{% endif %}{% endfor %}]

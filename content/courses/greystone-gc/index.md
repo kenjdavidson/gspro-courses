@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: course_layout.njk
 title: Greystone Golf Club
 description: 
 location: Milton, Ontario
@@ -7,15 +7,11 @@ tags: courses
 image: splash.png
 gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
-gspro_status:  0
-gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196724&authkey=!AIKyxJ6c1Z8sNkg
-gspro_version: beta-1.2
-date: "2023-01-31"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220421&authkey=!AKA5SLNGAtSJ27w
+gspro_version: beta-1.3
+gspro_last_updated: "2023-02-12"
+gspro_elevation_feet: "250"
 ---
-# Greystone Golf Club
-
-![Splash Image](./splash.png)
 
 Sculpted into the edge of the Niagara Escarpment, Greystone is one of the most scenic and respected parkland courses in the ClubLink family.
 
@@ -27,10 +23,16 @@ Opened in 1991 and one of ClubLink's original four courses, the Prestige-level c
 
 Greystone's stunning Tudor-style clubhouse and banquet facility provide a memorable venue for meetings and weddings, or to simply to relax after your round. Minutes from Highway 401 on the western edge of Greater Toronto, Greystone offers an escape on a course known equally for its scenery and championship-calibre golf holes.
 
-## Details 
+### Links
 
-[Greystone Golf Club](https://greystone.clublink.ca/)
+- [Greystone Golf Club](https://greystone.clublink.ca/)
 
-### Beta 1.2
+### Versions
+
+#### Beta 1.3 - 2023-02-12
+
+- Updated release folder to work with JSON Server
+
+#### Beta 1.2
 
 - Updated splash image to jpg
