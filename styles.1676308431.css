@@ -862,6 +862,9 @@ video {
 .fixed {
   position: fixed;
 }
+.sticky {
+  position: sticky;
+}
 .m-0 {
   margin: 0px;
 }
@@ -935,6 +938,9 @@ video {
 .flex-row {
   flex-direction: row;
 }
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -949,6 +955,9 @@ video {
 }
 .gap-4 {
   gap: 1rem;
+}
+.gap-2 {
+  gap: 0.5rem;
 }
 .overflow-hidden {
   overflow: hidden;
@@ -1127,6 +1136,10 @@ video {
   }
 }
 @media (min-width: 1024px) {
+
+  .lg\:flex-row {
+    flex-direction: row;
+  }
 
   .lg\:px-8 {
     padding-left: 2rem;

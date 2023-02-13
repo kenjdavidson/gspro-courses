@@ -1,46 +1,52 @@
 
 [{ 
-    "CourseKey": "GreystoneGCON", 
-    "Name": "Greystone Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196724&authkey=!AIKyxJ6c1Z8sNkg", 
-    "RemoteVersion": "beta-1.2", 
-    "ID": "0", 
-    "Status": "0", 
-    "CourseFolder": "greystone_gc_gsp", 
-    "CourseLocation": "Milton, Ontario", 
-    "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-01-31" 
-},{ 
-    "CourseKey": "MountNemoGCON", 
-    "Name": "Mount Nemo Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21196816&authkey=!APB5zjElZRO7sWI", 
-    "RemoteVersion": "beta-1.1", 
-    "ID": "0", 
-    "Status": "0", 
-    "CourseFolder": "mount_nemo_gc_gsp", 
-    "CourseLocation": "Burlington, Ontario", 
-    "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-01-31" 
-},{ 
     "CourseKey": "GlencairnLSON", 
     "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=c2e2e4b3b8dd77a3%21208305&authkey=AP32BIXhFTLWex8", 
-    "RemoteVersion": "alpha-1.0", 
-    "ID": "0", 
-    "Status": "0", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220423&authkey=!AGwOwLwU70zW6B0", 
+    "RemoteVersion": "alpha-1.1", 
     "CourseFolder": "glencairn_ls_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-02-05" 
+    "LastUpdated": "2023-02-12",
+    "ElevationInFeet": "250"
+},{ 
+    "CourseKey": "GlencairnSSON", 
+    "Name": "Glencairn - Speyside/Scotch Block", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220424&authkey=!AHMh8xXS0pk8UJc", 
+    "RemoteVersion": "alpha-1.1", 
+    "CourseFolder": "glencairn_ss_gsp", 
+    "CourseLocation": "Milton, Ontario", 
+    "CourseDesigner": "kenjdavidson", 
+    "LastUpdated": "2023-02-12",
+    "ElevationInFeet": "250"
+},{ 
+    "CourseKey": "GreystoneGCON", 
+    "Name": "Greystone Golf Club", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220421&authkey=!AKA5SLNGAtSJ27w", 
+    "RemoteVersion": "beta-1.3", 
+    "CourseFolder": "greystone_gc_gsp", 
+    "CourseLocation": "Milton, Ontario", 
+    "CourseDesigner": "kenjdavidson", 
+    "LastUpdated": "2023-02-12",
+    "ElevationInFeet": "250"
+},{ 
+    "CourseKey": "MountNemoGCON", 
+    "Name": "Mount Nemo Golf Club", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220425&authkey=!ABU127_usRuGhHY", 
+    "RemoteVersion": "beta-1.2", 
+    "CourseFolder": "mount_nemo_gc_gsp", 
+    "CourseLocation": "Burlington, Ontario", 
+    "CourseDesigner": "kenjdavidson", 
+    "LastUpdated": "2023-01-31",
+    "ElevationInFeet": "250"
 },{ 
     "CourseKey": "TrafalgarGCON", 
     "Name": "Trafalgar Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21208648&authkey=!AGOv1c-zIdJnEu4", 
-    "RemoteVersion": "beta-1.1", 
-    "ID": "0", 
-    "Status": "0", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220422&authkey=!AJzUxPGh9uMQGbU", 
+    "RemoteVersion": "beta-1.3", 
     "CourseFolder": "trafalgar_gc_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-02-09" 
+    "LastUpdated": "2023-01-31",
+    "ElevationInFeet": "250"
 }]
