@@ -9,9 +9,9 @@ gspro_course_key: GlencairnSSON
 gspro_course_folder: glencairn_ss_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220424&authkey=!AHMh8xXS0pk8UJc
-gspro_version: alpha-1.1
-gspro_last_updated: "2023-02-12"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21221354&authkey=!ANFXf4Zab8En-b8
+gspro_version: alpha-1.2
+gspro_last_updated: "2023-02-14"
 gspro_elevation_feet: "250"
 ---
 
@@ -35,6 +35,11 @@ Make the short jaunt to Glencairn, transport yourself to Scotland, and save the 
 - [Download]({{ gspro_download_url }})
 
 ### Versions
+
+#### Alpha 1.2
+
+- Added starter huts
+- Added houses and vegetation
 
 #### Alpha 1.1
 
