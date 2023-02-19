@@ -7,8 +7,8 @@ tags: courses
 image: splash.png
 gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220421&authkey=!AKA5SLNGAtSJ27w
-gspro_version: beta-1.3
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21242240&authkey=!ANlaBDirgy70pHQ
+gspro_version: beta-1.4
 gspro_last_updated: "2023-02-12"
 gspro_elevation_feet: "250"
 ---
@@ -28,6 +28,11 @@ Greystone's stunning Tudor-style clubhouse and banquet facility provide a memora
 - [Greystone Golf Club](https://greystone.clublink.ca/)
 
 ### Versions
+
+#### Beta 1.4 - 2023-02-29
+
+- Added colliders to trees
+- Added collider to clubhouse
 
 #### Beta 1.3 - 2023-02-12
 
