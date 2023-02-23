@@ -2,7 +2,7 @@
 permalink: /courses.json
 ---
 
-[{% for course in collections.courses %}{% if course.data.gspro_version != 'wip'%}{ 
+[{% for course in collections.courses %}{% if course.data.gspro_version != 'wip' %}{ 
     "CourseKey": "{{ course.data.gspro_course_key }}", 
     "Name": "{{ course.data.title }}", 
     "DownloadURL": "{{ course.data.gspro_download_url | safe }}", 

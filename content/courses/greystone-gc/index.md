@@ -7,9 +7,9 @@ tags: courses
 image: splash.png
 gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21242240&authkey=!ANlaBDirgy70pHQ
+gspro_download_url: https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=C2E2E4B3B8DD77A3%21243461&authkey=AJhqX60dbBwNRVI
 gspro_version: beta-1.4
-gspro_last_updated: "2023-02-12"
+gspro_last_updated: "2023-02-19"
 gspro_elevation_feet: "250"
 ---
 
@@ -29,7 +29,7 @@ Greystone's stunning Tudor-style clubhouse and banquet facility provide a memora
 
 ### Versions
 
-#### Beta 1.4 - 2023-02-29
+#### Beta 1.4 - 2023-02-19
 
 - Added colliders to trees
 - Added collider to clubhouse
