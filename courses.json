@@ -2,8 +2,8 @@
 [{ 
     "CourseKey": "GlencairnLSON", 
     "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21243459&authkey=!AJyKoPFghDFmPpY", 
-    "RemoteVersion": "beta-1.4", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21243825&authkey=!AIZoT33gYYFjBkk", 
+    "RemoteVersion": "beta-1.5", 
     "CourseFolder": "glencairn_ls_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
@@ -12,8 +12,8 @@
 },{ 
     "CourseKey": "GlencairnSSON", 
     "Name": "Glencairn - Speyside/Scotch Block", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21243459&authkey=!AJyKoPFghDFmPpY", 
-    "RemoteVersion": "beta-1.4", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21243824&authkey=!AEdNp2f3B62rxn4", 
+    "RemoteVersion": "beta-1.5", 
     "CourseFolder": "glencairn_ss_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
@@ -39,7 +39,7 @@
     "CourseDesigner": "kenjdavidson", 
     "LastUpdated": "2023-01-31",
     "ElevationInFeet": "250"
-},,{ 
+},{ 
     "CourseKey": "TrafalgarGCON", 
     "Name": "Trafalgar Golf Club", 
     "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21220422&authkey=!AJzUxPGh9uMQGbU", 
