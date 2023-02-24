@@ -12,7 +12,8 @@
     "build:11ty": "eleventy --pathprefix=gspro-courses",
     "build:webpack": "webpack",
     "prettier": "prettier --write -c '{content,css,src}/**/*.{js,json,css,njk}'",
-    "prettier:check": "prettier --check -c '{content,css,src}//**/*.{js,json,css,njk}'"
+    "prettier:check": "prettier --check -c '{content,css,src}//**/*.{js,json,css,njk}'",
+    "validate:courses": "node validate-courses"
   },
   "keywords": [],
   "author": "",

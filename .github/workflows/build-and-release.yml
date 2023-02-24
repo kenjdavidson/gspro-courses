@@ -19,6 +19,8 @@ jobs:
         run: npm install
       - name: Build project
         run: npm run build
+      - name: Validate Courses JSON
+        run: npm run validate:courses
       - name: Deploy to Github
         uses: peaceiris/actions-gh-pages@v3
         with:
