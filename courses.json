@@ -2,8 +2,8 @@
 [{ 
     "CourseKey": "GlencairnLSON", 
     "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21243825&authkey=!AIZoT33gYYFjBkk", 
-    "RemoteVersion": "beta-1.5", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21244065&authkey=!AC46VnES27cyl5U", 
+    "RemoteVersion": "beta-1.6", 
     "CourseFolder": "glencairn_ls_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
@@ -12,8 +12,8 @@
 },{ 
     "CourseKey": "GlencairnSSON", 
     "Name": "Glencairn - Speyside/Scotch Block", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21243824&authkey=!AEdNp2f3B62rxn4", 
-    "RemoteVersion": "beta-1.5", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21244065&authkey=!AC46VnES27cyl5U", 
+    "RemoteVersion": "beta-1.6", 
     "CourseFolder": "glencairn_ss_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
@@ -22,8 +22,8 @@
 },{ 
     "CourseKey": "GreystoneGCON", 
     "Name": "Greystone Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?cid=C2E2E4B3B8DD77A3&resid=C2E2E4B3B8DD77A3%21243461&authkey=AJhqX60dbBwNRVI", 
-    "RemoteVersion": "beta-1.4", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21244151&authkey=!AGHm_TEei6k3dU0", 
+    "RemoteVersion": "beta-1.5", 
     "CourseFolder": "greystone_gc_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
@@ -38,6 +38,16 @@
     "CourseLocation": "Burlington, Ontario", 
     "CourseDesigner": "kenjdavidson", 
     "LastUpdated": "2023-01-31",
+    "ElevationInFeet": "250"
+},{ 
+    "CourseKey": "RoyalAshburnGCON", 
+    "Name": "Royal Ashburn Golf Club", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21244153&authkey=!AJBJjo_eCG5Zj6I", 
+    "RemoteVersion": "alpha-1.0", 
+    "CourseFolder": "royal-ashburn-gc", 
+    "CourseLocation": "Ashburn, Ontario", 
+    "CourseDesigner": "kenjdavidson", 
+    "LastUpdated": "2023-02-24",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "TrafalgarGCON", 
