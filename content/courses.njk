@@ -2,7 +2,7 @@
 permalink: /courses.json
 ---
 
-[{% for course in collections.courses %}{% if course.data.gspro_version != 'wip' %}{ 
+[{% for course in collections.courses %}{ 
     "CourseKey": "{{ course.data.gspro_course_key }}", 
     "Name": "{{ course.data.title }}", 
     "DownloadURL": "{{ course.data.gspro_download_url | safe }}", 
@@ -12,4 +12,4 @@ permalink: /courses.json
     "CourseDesigner": "kenjdavidson", 
     "LastUpdated": "{{ course.data.gspro_last_updated }}",
     "ElevationInFeet": "{{ course.data.gspro_elevation_feet }}"
-}{% endif %}{% if not loop.last %},{% endif %}{% endfor %}]
+}{% if not loop.last %},{% endif %}{% endfor %}]

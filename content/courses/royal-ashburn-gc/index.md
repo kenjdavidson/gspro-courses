@@ -3,7 +3,7 @@ layout: course_layout.njk
 title: Royal Ashburn Golf Club
 description: 
 location: Ashburn, Ontario
-tags: courses
+tags: 
 image: splash.png
 gspro_course_key: RoyalAshburnGCON
 gspro_course_folder: royal-ashburn-gc
