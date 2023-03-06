@@ -1,15 +1,15 @@
 ---
 layout: course_layout.njk
-title: Glencairn - Leithfield/Speyside
+title: Glencairn - Scotch Block/Leithfield
 description:
 location: Milton, Ontario
 tags: courses
 image: splash.jpg
-gspro_course_key: GlencairnLSON
-gspro_course_folder: glencairn_ls_gsp
+gspro_course_key: GlencairnSLON
+gspro_course_folder: glencairn_sl_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21251244&authkey=!ANZcNCR2A0d9OsU
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21251245&authkey=!AFh0aX1JNqK0XTA
 gspro_version: beta-1.8
 gspro_last_updated: "2023-03-06"
 gspro_elevation_feet: "250"
@@ -38,12 +38,8 @@ Make the short jaunt to Glencairn, transport yourself to Scotland, and save the 
 
 #### Version 1 [beta]
 
-Still in beta but making progress:
-
 - Added stone walls around course
 - Added train bridge
-- cleaned up vegetation
+- Cleaned up vegetation
 - Added starter huts
 - Added houses and vegetation
-- Updated release folder to work with JSON Server
-- Basic (but playable) course layout. Used for assisting in development of the course.

@@ -9,9 +9,9 @@ gspro_course_key: GlencairnSSON
 gspro_course_folder: glencairn_ss_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21246751&authkey=!AOVGAUjx7H6rTMs
-gspro_version: beta-1.7
-gspro_last_updated: "2023-02-22"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21251250&authkey=!APx2_8JB9ygvryw
+gspro_version: beta-1.8
+gspro_last_updated: "2023-03-08"
 gspro_elevation_feet: "250"
 ---
 
@@ -36,21 +36,13 @@ Make the short jaunt to Glencairn, transport yourself to Scotland, and save the 
 
 ### Versions
 
-#### Beta 1.7
+#### Version 1 [beta]
 
-- Attempt to add stone walls
+Still in beta but making progress:
+
 - Added train bridge
-- cleaned up vegetation
-
-#### Alpha 1.2
-
+- Cleaned up vegetation
 - Added starter huts
 - Added houses and vegetation
-
-#### Alpha 1.1
-
 - Updated release folder to work with JSON Server
-
-#### Alpha 1.0
-
 - Basic (but playable) course layout. Used for assisting in development of the course.
