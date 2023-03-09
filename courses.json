@@ -2,32 +2,32 @@
 [{ 
     "CourseKey": "GlencairnLSON", 
     "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21251244&authkey=!ANZcNCR2A0d9OsU", 
-    "RemoteVersion": "beta-1.8", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21252472&authkey=!AOqUkXFbpyUQ8GE", 
+    "RemoteVersion": "beta-1.9", 
     "CourseFolder": "glencairn_ls_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-06",
+    "LastUpdated": "2023-03-09",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "GlencairnSLON", 
     "Name": "Glencairn - Scotch Block/Leithfield", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21251245&authkey=!AFh0aX1JNqK0XTA", 
-    "RemoteVersion": "beta-1.8", 
+    "DownloadURL": "https://onedrive.live.com/embed?resid=C2E2E4B3B8DD77A3%21252474&authkey=!AItKquuEo0iEWU4", 
+    "RemoteVersion": "beta-1.9", 
     "CourseFolder": "glencairn_sl_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-06",
+    "LastUpdated": "2023-03-09",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "GlencairnSSON", 
     "Name": "Glencairn - Speyside/Scotch Block", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21251250&authkey=!APx2_8JB9ygvryw", 
-    "RemoteVersion": "beta-1.8", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21252473&authkey=!AIPhazueEP33P5A", 
+    "RemoteVersion": "beta-1.9", 
     "CourseFolder": "glencairn_ss_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-08",
+    "LastUpdated": "2023-03-09",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "GreystoneGCON", 
