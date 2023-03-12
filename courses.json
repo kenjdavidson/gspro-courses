@@ -2,32 +2,32 @@
 [{ 
     "CourseKey": "GlencairnLSON", 
     "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21252472&authkey=!AOqUkXFbpyUQ8GE", 
-    "RemoteVersion": "beta-1.9", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257953&authkey=!AAKCxBHx7D8AXVA", 
+    "RemoteVersion": "beta-1.10", 
     "CourseFolder": "glencairn_ls_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-09",
+    "LastUpdated": "2023-03-11",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "GlencairnSLON", 
     "Name": "Glencairn - Scotch Block/Leithfield", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21252474&authkey=!AItKquuEo0iEWU4", 
-    "RemoteVersion": "beta-1.9", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257952&authkey=!AH3CRzxWRuyGGsI", 
+    "RemoteVersion": "beta-1.10", 
     "CourseFolder": "glencairn_sl_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-09",
+    "LastUpdated": "2023-03-11",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "GlencairnSSON", 
     "Name": "Glencairn - Speyside/Scotch Block", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21252473&authkey=!AIPhazueEP33P5A", 
-    "RemoteVersion": "beta-1.9", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257954&authkey=!AI53JKrwkNnXzIY", 
+    "RemoteVersion": "beta-1.10", 
     "CourseFolder": "glencairn_ss_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-09",
+    "LastUpdated": "2023-03-11",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "GreystoneGCON", 
@@ -52,12 +52,12 @@
 },{ 
     "CourseKey": "RoyalAshburnGCON", 
     "Name": "Royal Ashburn Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21244153&authkey=!AJBJjo_eCG5Zj6I", 
-    "RemoteVersion": "alpha-1.0", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257674&authkey=!AFSFxBrLjXRxzOY", 
+    "RemoteVersion": "alpha-1.1", 
     "CourseFolder": "royal-ashburn-gc", 
     "CourseLocation": "Ashburn, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-02-24",
+    "LastUpdated": "2023-03-11",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "TrafalgarGCON", 
