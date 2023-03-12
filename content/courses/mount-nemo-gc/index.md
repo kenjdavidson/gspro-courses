@@ -3,7 +3,9 @@ layout: course_layout.njk
 title: Mount Nemo Golf Club
 description: 
 location: Burlington, Ontario
-tags: courses
+tags: 
+  - courses
+  - beta
 image: splash.png
 gspro_course_key: MountNemoGCON
 gspro_course_folder: mount_nemo_gc_gsp

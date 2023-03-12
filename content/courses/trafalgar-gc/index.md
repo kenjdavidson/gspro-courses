@@ -3,7 +3,9 @@ layout: course_layout.njk
 title: Trafalgar Golf Club
 description:
 location: Milton, Ontario
-tags: courses
+tags: 
+  - courses
+  - beta
 image: splash.jpg
 gspro_course_key: TrafalgarGCON
 gspro_course_folder: trafalgar_gc_gsp

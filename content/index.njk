@@ -17,10 +17,11 @@ permalink: "/"
                 </a>
                 <div class="p-4">
                     <a href="{{ course.url | url }}" class="no-underline">
-                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white no-underline">{{ course.data.title }}</h5>
+                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white no-underline">{{ course.data.title }} {% if 'beta' in course.data.tags %}(Beta){% endif %}</h5>
                         <h6 class="mb-2 text-xl tracking-tight text-gray-700 dark:text-white no-underline">{{ course.data.location }}</h5>
                     </a>
                     <div class="mb-3 font-normal text-gray-700 dark:text-gray-400">Version: {{ course.data.gspro_version }}</div>
+
                     {% if course.data.info %}<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ course.data.info }}</p>{% endif %}
                 </div>
             </div>
@@ -28,7 +29,7 @@ permalink: "/"
     {%- endfor -%}
     </ul>
     <blockquote>
-        Download the <a href="{{ '/courses.json' | url }}" target="_blank">course list</a> to get regular updates.
+        Beta courses are available through <a href="{{ '/courses.json' | url }}" target="_blank">course list</a>.  Add this to your GSPro course server list for regular updates.
     </blockquote>
 </article>
 

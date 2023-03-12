@@ -3,13 +3,15 @@ layout: course_layout.njk
 title: Royal Ashburn Golf Club
 description: 
 location: Ashburn, Ontario
-tags: courses
+tags: 
+  - courses
+  - beta
 image: splash.jpg
 gspro_course_key: RoyalAshburnGCON
 gspro_course_folder: royal-ashburn-gc
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21244153&authkey=!AJBJjo_eCG5Zj6I
-gspro_version: alpha-1.0
-gspro_last_updated: "2023-02-24"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257674&authkey=!AFSFxBrLjXRxzOY
+gspro_version: alpha-1.1
+gspro_last_updated: "2023-03-11"
 gspro_elevation_feet: "250"
 ---
 
@@ -27,5 +29,14 @@ To further reflect our history and contributions to the game of golf, The Royal 
 
 ### Versions
 
+#### Version 1 [alpha]
+
 - Current version is playable but missing vegetation and course amentities.
 - Looking for input to be provided during the building process
+
+### Resources
+
+Links to resources (textures, materials, etc) used in the project:
+
+- [Floor Pebbles](https://polyhaven.com/a/floor_pebbles_01)
+- [Pavement](https://polyhaven.com/a/pavement_03)

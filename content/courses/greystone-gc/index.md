@@ -3,7 +3,9 @@ layout: course_layout.njk
 title: Greystone Golf Club
 description: 
 location: Milton, Ontario
-tags: courses
+tags: 
+  - courses
+  - beta
 image: splash.png
 gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
@@ -29,15 +31,7 @@ Greystone's stunning Tudor-style clubhouse and banquet facility provide a memora
 
 ### Versions
 
-#### Beta 1.4 - 2023-02-19
+#### Version 1 [beta]
 
-- Added colliders to trees
-- Added collider to clubhouse
-
-#### Beta 1.3 - 2023-02-12
-
-- Updated release folder to work with JSON Server
-
-#### Beta 1.2
-
-- Updated splash image to jpg
+- Course layout and vegetation
+- Clubhouse and course amenities

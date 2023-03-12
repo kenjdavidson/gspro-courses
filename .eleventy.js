@@ -10,6 +10,14 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addTransform("htmlmin", htmlMinify);
   }
 
+  // Collections
+  eleventyConfig.addCollection("betaCourses", function(collectionApi) {
+    return collectionApi.getFilteredByTags("courses", "beta")
+  });
+  eleventyConfig.addCollection("releaseCourses", function(collectionApi) {
+    return collectionApi.getFilteredByTags("courses", "release")
+  });
+
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
