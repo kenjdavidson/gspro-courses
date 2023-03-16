@@ -12,8 +12,8 @@ gspro_course_folder: glencairn_ss_gsp
 gspro_status: 0
 gspro_id: 0
 gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21258423&authkey=!ABe8VZDlcSsWpt0
-gspro_version: beta-1.11
-gspro_last_updated: "2023-03-14"
+gspro_version: beta-1.12
+gspro_last_updated: "2023-03-16"
 gspro_elevation_feet: "250"
 ---
 
