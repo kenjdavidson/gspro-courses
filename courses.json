@@ -32,12 +32,12 @@
 },{ 
     "CourseKey": "GreystoneGCON", 
     "Name": "Greystone Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21259094&authkey=!ADI9GsnjyjKsPOE", 
-    "RemoteVersion": "beta-1.8", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21268938&authkey=!AGy-WCS1HhrlUu0", 
+    "RemoteVersion": "beta-1.9", 
     "CourseFolder": "greystone_gc_gsp", 
     "CourseLocation": "Milton, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-15",
+    "LastUpdated": "2023-03-18",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "MountNemoGCON", 
