@@ -5,7 +5,8 @@ description:
 location: Milton, Ontario
 tags: 
   - courses
-  - beta
+  - released
+  - sgt
 image: splash.png
 gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
