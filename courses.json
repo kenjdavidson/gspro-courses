@@ -1,35 +1,5 @@
 
 [{ 
-    "CourseKey": "GlencairnLSON", 
-    "Name": "Glencairn - Leithfield/Speyside", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21269340&authkey=!AErbGHCIkTHacdI", 
-    "RemoteVersion": "beta-1.13", 
-    "CourseFolder": "glencairn_ls_gsp", 
-    "CourseLocation": "Milton, Ontario", 
-    "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-18",
-    "ElevationInFeet": "250"
-},{ 
-    "CourseKey": "GlencairnSLON", 
-    "Name": "Glencairn - Scotch Block/Leithfield", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21269216&authkey=!ABjVSI4UOEfrQ6I", 
-    "RemoteVersion": "beta-1.13", 
-    "CourseFolder": "glencairn_sl_gsp", 
-    "CourseLocation": "Milton, Ontario", 
-    "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-18",
-    "ElevationInFeet": "250"
-},{ 
-    "CourseKey": "GlencairnSSON", 
-    "Name": "Glencairn - Speyside/Scotch Block", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21269229&authkey=!ALbrJvS2JRsucNE", 
-    "RemoteVersion": "beta-1.13", 
-    "CourseFolder": "glencairn_ss_gsp", 
-    "CourseLocation": "Milton, Ontario", 
-    "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-18",
-    "ElevationInFeet": "250"
-},{ 
     "CourseKey": "GreystoneGCON", 
     "Name": "Greystone Golf Club", 
     "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21268938&authkey=!AGy-WCS1HhrlUu0", 
