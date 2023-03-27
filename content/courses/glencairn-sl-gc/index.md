@@ -5,7 +5,8 @@ description:
 location: Milton, Ontario
 tags: 
   - courses
-  - beta
+  - released
+  - sgt
 image: splash.jpg
 gspro_course_key: GlencairnSLON
 gspro_course_folder: glencairn_sl_gsp
