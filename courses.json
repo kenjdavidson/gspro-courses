@@ -12,12 +12,12 @@
 },{ 
     "CourseKey": "RoyalAshburnGCON", 
     "Name": "Royal Ashburn Golf Club", 
-    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257674&authkey=!AFSFxBrLjXRxzOY", 
-    "RemoteVersion": "alpha-1.1", 
+    "DownloadURL": "https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21272783&authkey=!ADAF35XtYvCDDAc", 
+    "RemoteVersion": "beta-1.2", 
     "CourseFolder": "royal-ashburn-gc", 
     "CourseLocation": "Ashburn, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-03-11",
+    "LastUpdated": "2023-03-28",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "TrafalgarGCON", 
