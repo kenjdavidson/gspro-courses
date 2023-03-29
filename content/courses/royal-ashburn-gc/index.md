@@ -9,9 +9,9 @@ tags:
 image: splash.jpg
 gspro_course_key: RoyalAshburnGCON
 gspro_course_folder: royal-ashburn-gc
-gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21257674&authkey=!AFSFxBrLjXRxzOY
-gspro_version: alpha-1.1
-gspro_last_updated: "2023-03-11"
+gspro_download_url: https://onedrive.live.com/download?resid=C2E2E4B3B8DD77A3%21272783&authkey=!ADAF35XtYvCDDAc
+gspro_version: beta-1.2
+gspro_last_updated: "2023-03-28"
 gspro_elevation_feet: "250"
 ---
 
