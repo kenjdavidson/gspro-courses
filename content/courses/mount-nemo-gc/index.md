@@ -11,7 +11,7 @@ gspro_course_key: MountNemoGCON
 gspro_course_folder: mount_nemo_gc_gsp
 gspro_status:  0
 gspro_id: 0
-gspro_download_url: https://drive.google.com/uc?id=15ldrnwQkr6FtGX3l_Mf5ySw4dXPwWMk-&export=download
+gspro_download_url: https://drive.google.com/uc?export=download&id=15ldrnwQkr6FtGX3l_Mf5ySw4dXPwWMk-
 gspro_version: beta-1.2
 gspro_last_updated: "2023-01-31"
 gspro_elevation_feet: "250"
