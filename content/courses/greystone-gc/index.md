@@ -10,7 +10,6 @@ tags:
 image: splash.png
 gspro_course_key: GreystoneGCON
 gspro_course_folder: greystone_gc_gsp
-gspro_download_url: https://onedrive.live.com/download?resid=c2e2e4b3b8dd77a3%21273363&authkey=!AMRaRZrG0T1t790
 gspro_version: 1.10
 gspro_last_updated: "2023-04-01"
 gspro_elevation_feet: "250"
