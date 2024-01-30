@@ -2,12 +2,12 @@
 [{ 
     "CourseKey": "DeerfieldGcOakville", 
     "Name": "Deerfield Golf Club", 
-    "DownloadURL": "https://drive.google.com/uc?id=115ATNSEUb4nKlfYq3WgAGREt6F7zfrVL&export=download", 
-    "RemoteVersion": "beta-1.2", 
-    "CourseFolder": "deerfield_gc_oakville_gsp", 
+    "DownloadURL": "https://drive.google.com/uc?export=download&id=115ATNSEUb4nKlfYq3WgAGREt6F7zfrVL", 
+    "RemoteVersion": "beta-1.3", 
+    "CourseFolder": "deerfield_gc_oakville", 
     "CourseLocation": "Oakville, Ontario", 
     "CourseDesigner": "kenjdavidson", 
-    "LastUpdated": "2023-01-05",
+    "LastUpdated": "2024-01-29",
     "ElevationInFeet": "250"
 },{ 
     "CourseKey": "MountNemoGCON", 
