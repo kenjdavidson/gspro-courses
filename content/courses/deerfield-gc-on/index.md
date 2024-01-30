@@ -8,12 +8,12 @@ tags:
   - beta
 image: splash.jpg
 gspro_course_key: DeerfieldGcOakville
-gspro_course_folder: deerfield_gc_oakville_gsp
+gspro_course_folder: deerfield_gc_oakville
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://drive.google.com/uc?id=115ATNSEUb4nKlfYq3WgAGREt6F7zfrVL&export=download
-gspro_version: beta-1.2
-gspro_last_updated: "2023-01-05"
+gspro_download_url: https://drive.google.com/uc?export=download&id=115ATNSEUb4nKlfYq3WgAGREt6F7zfrVL
+gspro_version: beta-1.3
+gspro_last_updated: "2024-01-29"
 gspro_elevation_feet: "250"
 ---
 
@@ -33,13 +33,19 @@ Our fully equipped Golf Shop is staffed by helpful CPGA Professionals and can as
 
 ### Versions
 
+#### Beta-1.3
+
+- Vegatation completed (ish)
+- Course Colouring completed (ish)
+- Course buildings and furniture (ish)
+
+#### Beta-1.2
+
+- Continued adding vegetation
+- Started adding furniture
+
 #### Beta-1.0
 
 - Course layout complete and ready for play test
 - No vegatation
 - No Buildings
-
-#### Beta-1.2
-
-- Driving range
-- Started position vegetation
