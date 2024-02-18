@@ -33,6 +33,18 @@ Our fully equipped Golf Shop is staffed by helpful CPGA Professionals and can as
 
 ### Versions
 
+#### Beta-1.5
+
+- [ ] Course ameneties
+- [ ] Collider fixes
+- [ ] Etc.
+
+#### Beta-1.3
+
+- 3dg added
+- Vegetation completed (more)
+- Course buildings added
+
 #### Beta-1.3
 
 - Vegatation completed (ish)
