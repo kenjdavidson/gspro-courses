@@ -5,14 +5,14 @@ description:
 location: Oakville, Ontario
 tags: 
   - courses
-  - beta
+  - released
+  - sgt
 image: splash.jpg
 gspro_course_key: DeerfieldGcOakville
 gspro_course_folder: deerfield_gc_oakville
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://drive.google.com/uc?export=download&id=115ATNSEUb4nKlfYq3WgAGREt6F7zfrVL
-gspro_version: beta-1.3
+gspro_version: 1
 gspro_last_updated: "2024-01-29"
 gspro_elevation_feet: "250"
 ---
