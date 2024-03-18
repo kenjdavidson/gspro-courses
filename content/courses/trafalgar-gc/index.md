@@ -33,13 +33,14 @@ Over the years, the club had played host to the qualifying rounds of the Canadia
 
 ### Versions
 
-#### Beta 1.3 - 2023-02-12
+#### Beta-1.3 - 2023-02-12
 
 - Updated release folder to work with JSON Server
 
-#### Beta 1.2 - 2023-01-31
+#### Beta-1.2 - 2023-01-31
 
 - Club houses
 - Colliders (forgot them first go round)
 - Hole 7 green fixed to be an actual green
 
+> Pending update to V4 toolset

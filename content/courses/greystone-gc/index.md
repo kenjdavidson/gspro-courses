@@ -31,7 +31,11 @@ Greystone's stunning Tudor-style clubhouse and banquet facility provide a memora
 
 ### Versions
 
-#### Version 1 [beta]
+#### Release 1
+
+- Released to SGT for public enjoyment
+
+#### Beta-1.0
 
 - Course layout and vegetation
 - Clubhouse and course amenities

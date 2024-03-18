@@ -33,11 +33,15 @@ Our fully equipped Golf Shop is staffed by helpful CPGA Professionals and can as
 
 ### Versions
 
+#### Release 1
+
+- Released to SGT for public enjoyment
+
 #### Beta-1.5
 
-- [ ] Course ameneties
-- [ ] Collider fixes
-- [ ] Etc.
+- Course ameneties
+- Collider fixes
+- Etc.
 
 #### Beta-1.3
 

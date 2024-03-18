@@ -27,7 +27,7 @@ As soon as you arrive at the first tee at Taboo, you understand what makes this 
 
 ### Versions
 
-#### Version 1 [alpha]
+#### Alpha-1.0
 
 - Course configuration and basic vegetation
 

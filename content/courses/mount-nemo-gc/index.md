@@ -38,3 +38,5 @@ Mount Nemo Golf Club is also as challenging as it is scenic. It is a par 71 cham
 #### Beta 1.1
 
 - Updated splash image to jpg
+
+> Pending update to V4 toolset

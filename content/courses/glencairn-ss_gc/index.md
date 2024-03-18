@@ -38,7 +38,11 @@ Make the short jaunt to Glencairn, transport yourself to Scotland, and save the 
 
 ### Versions
 
-#### Version 1 [beta]
+#### Release 1
+
+- Released to SGT for public enjoyment
+
+#### Beta-1.0
 
 Still in beta but making progress:
 
