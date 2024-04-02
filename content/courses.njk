@@ -5,7 +5,7 @@ permalink: /courses.json
 [{% for course in collections.betaCourses %}{ 
     "CourseKey": "{{ course.data.gspro_course_key }}", 
     "Name": "{{ course.data.title }}", 
-    "DownloadURL": "{{ "https://www.googleapis.com/drive/v3/files/" + course.data.gspro_download_url + "?alt=media&key=AIzaSyBTHXVWn2zq_2CTTA6jgEeuMU4hXLsmeTg" | safe }}", 
+    "DownloadURL": "{{ "https://www.googleapis.com/drive/v3/files/" + course.data.gspro_download_url + "?alt=media&key=" + environment.api_key | safe }}", 
     "RemoteVersion": "{{ course.data.gspro_version }}", 
     "CourseFolder": "{{ course.data.gspro_course_folder}}", 
     "CourseLocation": "{{ course.data.location }}", 

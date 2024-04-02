@@ -19,6 +19,8 @@ jobs:
         run: npm install
       - name: Build project
         run: npm run build
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
       - name: Validate Courses JSON
         run: npm run validate:courses
       - name: Deploy to Github
