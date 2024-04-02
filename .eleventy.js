@@ -3,8 +3,14 @@ const jsonFilters = require('./src/filters/json');
 const ordinalFilter = require('./src/filters/ordinal');
 const htmlMinify = require('./src/transforms/html-minify');
 const markdownIt = require("markdown-it");
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 module.exports = function(eleventyConfig) {
+  // Environment
+  eleventyConfig.addGlobalData('env', process.env);
+
   // Production
   if (process.env.NODE_ENV === 'production') {
     eleventyConfig.addTransform("htmlmin", htmlMinify);
