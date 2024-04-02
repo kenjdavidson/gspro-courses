@@ -21,7 +21,7 @@ jobs:
       - name: Build project
         run: |
           touch .env
-          echo API_KEY=${{ secrets.ENGINE_API_KEY }} >> .env
+          echo API_KEY=${{ secrets.API_KEY }} >> .env
           npm run build
       - name: Validate Courses JSON
         run: npm run validate:courses
