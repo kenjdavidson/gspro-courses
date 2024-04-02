@@ -19,10 +19,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build project
-        run: |
-          touch .env
-          echo API_KEY=${{ secrets.API_KEY }} >> .env
-          npm run build
+        run: API_KEY=${{ secrets.API_KEY }} npm run build
       - name: Validate Courses JSON
         run: npm run validate:courses
       - name: Deploy to Github
