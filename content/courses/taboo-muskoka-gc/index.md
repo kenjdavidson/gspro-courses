@@ -9,7 +9,7 @@ tags:
 image: splash.jpg
 gspro_course_key: TabooMuskokaGSP
 gspro_course_folder: taboo_muskoka_gsp
-gspro_download_url: https://drive.usercontent.google.com/download?export=download&id=1SVWuxAB2rkjfDlplmDYwUOVw4yO5I5OA
+gspro_download_url: 1SVWuxAB2rkjfDlplmDYwUOVw4yO5I5OA
 gspro_version: alpha-1.0
 gspro_last_updated: "2024-03-17"
 gspro_elevation_feet: "850"

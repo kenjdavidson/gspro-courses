@@ -11,7 +11,7 @@ gspro_course_key: TrafalgarGCON
 gspro_course_folder: trafalgar_gc_gsp
 gspro_status: 0
 gspro_id: 0
-gspro_download_url: https://drive.usercontent.google.com/download?export=download&id=1ClnrgOzkBjIHAipDp3JQuNMn_cqHOmkO
+gspro_download_url: 1ClnrgOzkBjIHAipDp3JQuNMn_cqHOmkO
 gspro_version: beta-1.3
 gspro_last_updated: "2023-01-31"
 gspro_elevation_feet: "250"
